@@ -1,0 +1,1 @@
+This example demonstrates a potential issue when checking the length of the arguments object in ActionScript functions.  When no arguments are passed, accessing arguments.length can result in unexpected behavior. The solution shows how to improve the function to handle this correctly.
